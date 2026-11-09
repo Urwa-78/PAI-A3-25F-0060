@@ -2,6 +2,11 @@
 
 ## How to Run
 Install Python 3 along with NumPy, pandas, matplotlib, and Jupyter Notebook. Keep the `data/` folder in the same directory as the notebook. Open `Assignment3_Programming_for_AI.ipynb` in Jupyter Notebook or VS Code, then select Kernel → Restart and Run All to execute all cells.
+## Project Structure
+
+`data/`: Original datasets provided for the assignment.
+`outputs/`: Generated dashboard images, PDF, and animation.
+ `Assignment3_Programming_for_AI.ipynb`: Main analysis and visualization notebook.
 
 The notebook generates the following files in the `outputs/` directory:
  `dashboard.png`
